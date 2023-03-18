@@ -24,14 +24,77 @@ This specific implementation takes our existing system, and changes the architec
 - **Reporting Domain**: Consists of Postges Database, and an Aggregator for assembling the RBDMS model based on the event steam
 - **Monitoring Domain**: Consists the Prometheus technology stack, which includes AlertManager for managing alerts.
 - **Logging Domain**: Consists of Elasticsearch and Kibana for managing centralized logging.
+- **Eventing Domain**: Consists of the Kafka and Zookeeper for managing an Event Bus
+
+## System Components
+
+Web Domain
+
+- TBD
+
+Document Domain
+
+- TBD
+
+User Domain
+
+- TBD
+
+Reporting Domain
+
+- TBD
+
+Monitoring Domain
+
+- TBD
+
+Logging Domain
+
+- TBD
+
+Eventing Domain
+
+- TBD
 
 # Table of Contents
 
 TBD
 
-# System Components
+# Previous System
 
+TBD
 
+# Current System
+
+TBD
+
+# Architecture
+
+## Key Concepts and Technologies
+
+- Cloud Provider
+- SaaS
+- PaaS
+- Image Registry
+- Containerization
+- Kubernetes
+- Helm
+- Docker
+- Monitoring & Alerting
+- Centralized Logging
+- Backend for Front-end (BFF)
+- Microservices
+- CQRS
+- CAP Theorem
+- Domain Driven Design
+
+## Production
+
+TBD
+
+## Local (Demonstration)
+
+TBD
 
 
 
